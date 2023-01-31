@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"github.com/roham96/go-micro/user-cmd/db"
+	"github.com/roham96/go-micro/01_user-cmd/db"
 )
 
 type Service struct {
